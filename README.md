@@ -1,2 +1,2 @@
 # UP-2018-2019
-DA!
+Exam prepration tasks for Introduction to programming @FMI
